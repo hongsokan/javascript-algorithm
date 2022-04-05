@@ -2,7 +2,7 @@
 
 ```js
 function solution(input){
-  const result = input;
+  let result = input;
   
   return result;
 }
